@@ -15,7 +15,7 @@
 
 <div align="center">  
 <a href="https://github.com/NovaisBrunoo">
-  <img width="450em" height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=melch-raiol&show_icons=true&theme=nightowl&include_all_commits=true&count_private=true&custom_title=Melch%20Roza%20%27s%20GitHub%20Stats"/>
+  <img width="450em" height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=NovaisBrunoo&show_icons=true&theme=nightowl&include_all_commits=true&count_private=true&custom_title=Melch%20Roza%20%27s%20GitHub%20Stats"/>
   
 </div>
 
