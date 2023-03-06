@@ -14,8 +14,9 @@
 
 
 <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=NovaisBrunoo&show_icons=true&count_private=true&hide_border=true&title_color=0000&icon_color=ff91a4&text_color=c9d1d9&bg_color=0d1117" alt="Bruno Novais github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NovaisBrunoo&layout=compact&hide_border=true&title_color=ff91a4&text_color=ff91a4&bg_color=0d1117" />
+<a href="https://github.com/NovaisBrunoo">
+  <img width="450em" height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=melch-raiol&show_icons=true&theme=nightowl&include_all_commits=true&count_private=true&custom_title=Melch%20Roza%20%27s%20GitHub%20Stats"/>
+  
 </div>
 
 
